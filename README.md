@@ -25,8 +25,8 @@ Design and implemented a Role-based Authentication System using the MERN stack w
 - Install NodeJS
 - Install Git
 - Clone the following git repository inside any folder: https://github.com/rrohann24/AuthSystem
-- Open a terminal and make sure you are in the working directory folder(Authentication System) run **npm install** command to install the required project dependencies in both back-end and front-end folder.
-- Run **npm install** in the client folder also.
+- Open a terminal and make sure you are in the working directory folder(Authentication System) run **npm install** command to install the required project dependencies.
+- Run **npm install** in the client folder also to install frontend dependencies.
 - Now in the root directory (Authentication System) run the following command **npm run dev**
 - Now you can access the app at this URL: http://localhost:3000
 
